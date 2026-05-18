@@ -1,0 +1,11 @@
+*.mp4
+*.m4a
+*.mkv
+*.avi
+*.flv
+*.mp3
+*.wav
+*.aac
+*.ogg
+
+# tasks_state.json
